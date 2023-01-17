@@ -8,7 +8,7 @@ url: "afranower.github.io" #custom url to be used instead of GitHub repository
 email: "afra.nower@gmail.com"#
 
 # Pagination
-paginate: 4
+paginate: 0
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
