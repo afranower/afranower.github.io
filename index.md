@@ -16,7 +16,7 @@ Afra Nower is a prospective graduate student for Fall 2023. She has experience i
 4. Intern, [Teach for Bangladesh](https://teachforbangladesh.org){:target="_blank"} (2017)  
 
 
-**Newspaper Articles**  
+**Newspaper Article**  
 1. [The speech of 7th March: An analysis](https://dailyasianage.com/news/50827/the-speech-of-7th-march-an-analysis){:target="_blank"} 
 
 
