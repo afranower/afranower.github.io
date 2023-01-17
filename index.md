@@ -14,3 +14,6 @@ Afra Nower is a prospective graduate student for Fall 2023. She has experience i
 2019-2020 Management Trainee, [Prime Bank Limited] (https://www.primebank.com.bd){:target="_blank"}
 2018 Intern, [Li & Fung] (https://www.lifung.com)){:target="_blank"}
 2017 Intern, [Teach for Bangladesh] (https://teachforbangladesh.org){:target="_blank"}
+
+**Newspaper Articles**
+
