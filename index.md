@@ -21,4 +21,4 @@ Afra Nower is a prospective graduate student for Fall 2023. She has experience i
 
 
 **Hobbies**    
-Travelling, Reading, Cooking
+  Traveling, Reading, Cooking
