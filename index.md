@@ -9,17 +9,12 @@ published: true
 
 Afra Nower is a prospective graduate student for Fall 2023. She has experience in banking sector along with multiple internships in multinational companies and non-profit organizations. She completed her Bachelor of Arts in Economics with minor in Development Studies from [Asian University for Women](https://asian-university.org){:target="_blank"} with *Magna Cum Laude*. Her research interest lies in Macroeconomics and Applied Econometrics. 
 
-**Professional Experience**
-
-1. Executive Officer, [Prime Bank Limited](https://www.primebank.com.bd) (2020-2021) 
-
-2. Management Trainee, [Prime Bank Limited](https://www.primebank.com.bd) (2019-2020)
-
-3. Intern, [Li & Fung Limited](https://www.lifung.com) (2018)
-
-4. Intern, [Teach for Bangladesh](https://teachforbangladesh.org) (2017)
+**Professional Experience**  
+1. Executive Officer, [Prime Bank Limited](https://www.primebank.com.bd){:target="_blank"} (2020-2021)  
+2. Management Trainee, [Prime Bank Limited](https://www.primebank.com.bd){:target="_blank"} (2019-2020)  
+3. Intern, [Li & Fung Limited](https://www.lifung.com){:target="_blank"} (2018)  
+4. Intern, [Teach for Bangladesh](https://teachforbangladesh.org){:target="_blank"} (2017)  
 
 
-**Newspaper Articles**
-
-1. [The speech of 7th March: An analysis](https://dailyasianage.com/news/50827/the-speech-of-7th-march-an-analysis)
+**Newspaper Articles**  
+1. [The speech of 7th March: An analysis](https://dailyasianage.com/news/50827/the-speech-of-7th-march-an-analysis){:target="_blank"}  
