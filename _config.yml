@@ -8,7 +8,8 @@ url: "afranower.github.io" #custom url to be used instead of GitHub repository
 email: "afra.nower@gmail.com"#
 
 # Pagination
-paginate: 1
+paginate: 2
+permalink: /cv
 #permalink: /blog/:year/:title/
 #paginate_path: /blog/page:num/
 
@@ -45,7 +46,7 @@ compress_html:
 #collection
 collections:
   projects:
-    output: true
+    output: false
     permalink: /projects/:name/
     order:
       - shortProject.md
