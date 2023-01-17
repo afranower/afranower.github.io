@@ -11,14 +11,15 @@ Afra Nower is a prospective graduate student for Fall 2023. She has experience i
 
 **Professional Experience**
 
-2020-2021 Executive Officer, [Prime Bank Limited](https://www.primebank.com.bd)
+1. Executive Officer, [Prime Bank Limited](https://www.primebank.com.bd) (2020-2021) 
 
-2019-2020 Management Trainee, [Prime Bank Limited](https://www.primebank.com.bd)
+2. Management Trainee, [Prime Bank Limited](https://www.primebank.com.bd) (2019-2020)
 
-2018 Intern, [Li & Fung](https://www.lifung.com))
+3. Intern, [Li & Fung Limited](https://www.lifung.com) (2018)
 
-2017 Intern, [Teach for Bangladesh](https://teachforbangladesh.org)
+4. Intern, [Teach for Bangladesh](https://teachforbangladesh.org) (2017)
 
 
 **Newspaper Articles**
 
+1. [The speech of 7th March: An analysis](https://dailyasianage.com/news/50827/the-speech-of-7th-march-an-analysis)
