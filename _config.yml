@@ -3,9 +3,9 @@
 title: Afra Nower
 description: Prospective Graduate Student
 
-#baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: "/" #name of GitHub repository
+url: "afranower.github.io" #custom url to be used instead of GitHub repository
+email: "afra.nower@gmail.com"#
 
 # Pagination
 paginate: 4
