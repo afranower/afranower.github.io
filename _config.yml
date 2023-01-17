@@ -3,7 +3,7 @@
 title: Afra Nower
 description: Prospective Graduate Student
 
-baseurl: /gradfolio #name of GitHub repository
+#baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
